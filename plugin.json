@@ -1,0 +1,21 @@
+{
+  "metadata": {
+    "name": "Goctruyentranhvui",
+    "author": "JustaTama",
+    "version": 1,
+    "source": "https://goctruyentranhvui17.com",
+    "regexp": "https://goctruyentranhvui17.com/truyen/[0-9a-z-]+/?$",
+    "description": "Đọc truyện trên trang goctruyentranhvui17.com",
+    "locale": "vi_VN",
+    "language": "javascript",
+    "type": "comic"
+  },
+  "script": {
+    "home": "home.js",
+    "genre": "genre.js",
+    "detail": "detail.js",
+    "search": "search.js",
+    "toc": "toc.js",
+    "chap": "chap.js"
+  }
+}
